@@ -1,0 +1,6 @@
+2021-12-14T14:51:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress 2\wp-content\plugins\elementor\core\common\modules\connect\apps\base-app.php on line 12
+
+2021-12-14T14:51:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress 2\wp-content\plugins\elementor\core\files\file-types\base.php on line 8
+
+2021-12-14T14:51:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress 2\wp-includes\wp-db.php on line 2056
+

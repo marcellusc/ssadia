@@ -1,0 +1,6 @@
+2021-12-12T03:16:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress 2\wp-content\plugins\contact-form-7\modules\date.php on line 9
+
+2021-12-12T03:20:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress 2\wp-content\plugins\elementor\core\files\assets\files-upload-handler.php on line 5
+
+2021-12-12T03:58:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress 2\wp-includes\wp-db.php on line 2056
+
